@@ -6,7 +6,7 @@
 
 <div align="left">
   <a href="https://github.com/purbluue">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpurbluue&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false" alt="GitHub Hits">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpurbluue&count_bg=%23F2A2F3&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false" alt="GitHub Hits">
   </a>
 </div>
 
@@ -16,8 +16,7 @@
 
 
 
-
-## 💻 DEV's log 💻
+## 📚 DEV's log 📚
 <div style="display:flex; flex-direction:row;">
     <a href="https://easyhomputer.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
@@ -39,8 +38,10 @@
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div><br>
-    
-## 🔨 Once I've used 🔨
+
+
+<h3 align="center">💻 Tech Stack 💻</h3>
+<div align="center">
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
@@ -59,7 +60,7 @@
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
     <br>
 </div><br>
-<div align="left">
+<div align="center">
   <a href="https://github.com/purbluue/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purbluue&layout=compact" alt="Top Langs">
   </a>
