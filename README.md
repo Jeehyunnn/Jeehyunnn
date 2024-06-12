@@ -24,13 +24,11 @@
     <a href="https://www.notion.so/homputer/Notion-3a51e19fa20a4c08a3c1d281a7a2c741">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
-  
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://easyhomputer.tistory.com)
 </div><br>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=purbluue)](https://solved.ac/purbluue)
-
+<div style="display:flex; flex-direction:row;">
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=purbluue)](https://solved.ac/purbluue)
+</div>
  
 <h3 align="center">🎀 Contact 🎀</h3>
 <div align="center">
