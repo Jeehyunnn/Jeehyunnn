@@ -75,7 +75,7 @@
 </div>
 </div>
 
-![](./profile-3d-contrib/profile-season-animate.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 <!--
 **purbluue/purbluue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
