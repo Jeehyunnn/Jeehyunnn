@@ -44,6 +44,7 @@
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"width="67">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"width="64">
   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"width=78">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 </p>
 </div>
 </div>
@@ -60,8 +61,8 @@
 <h2 align="left">🎀 Contact 🎀</h2>
 <div align="left">
   <div style="display:flex; flex-direction:row;">
-    <a href="https://www.instagram.com/d.luuv_e/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/d.luuv_e/"width="120"/></a>&nbsp
-    <a href="mailto:luuvwindy@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=luuvwindy@gmail.com"width="84"/></a>
+    <a href="https://www.instagram.com/d.luuv_e/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/d.luuv_e/"width="90"/></a>&nbsp
+    <a href="mailto:luuvwindy@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=luuvwindy@gmail.com"width="62"/></a>
   </div>
 </div>
 <br>
@@ -70,10 +71,10 @@
 ## 📚 DEV's log 📚
 <div style="display:flex; flex-direction:row;">
     <a href="https://easyhomputer.tistory.com">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"width="83"> 
     </a>
     <a href="https://www.notion.so/homputer/Notion-3a51e19fa20a4c08a3c1d281a7a2c741">
-        <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"width="80"> 
     </a>
 </div><br>
 
