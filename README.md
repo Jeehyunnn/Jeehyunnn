@@ -1,6 +1,6 @@
 <div align="left">
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&text=Hi%20My%20GitHub%20&animation=twinkling&fontSize=40&&fontAlign=80&&fontAlignY=20&rotate=8&desc=I'm%20JiHyun%20&descSize=20&&descAlign=90&descAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=slice&color=E6E6FA&text=Hi%20My%20GitHub%20&animation=twinkling&fontSize=40&&fontAlign=80&&fontAlignY=20&rotate=8&desc=I'm%20JiHyun%20&descSize=20&&descAlign=90&descAlignY=40)
 
 <div align="left">
   <a href="https://github.com/purbluue">
@@ -78,8 +78,7 @@
 </div><br>
 
 
-[![Solved.ac
-  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=purbluue)](https://solved.ac/purbluue)
+[![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=purbluue)](https://solved.ac/purbluue)
 
 
 
