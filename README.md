@@ -1,18 +1,17 @@
 <div align="left">
 
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&text=Hi%20My%20GitHub%20&animation=twinkling&fontSize=40&&fontAlign=80&&fontAlignY=20&rotate=8&desc=I'm%20JiHyun%20&descSize=20&&descAlign=90&descAlignY=40)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&text=Welcome%20to%20JiHyun's%20GitHub%20👋&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=70&height=250&fontColor=d6ace6" alt="header">
-</div>
 <div align="left">
   <a href="https://github.com/purbluue">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpurbluue&count_bg=%23F2A2F3&title_bg=%23E6E6FA&icon=github.svg&icon_color=%234B0082&title=GITHUB&edge_flat=false" alt="GitHub Hits">
   </a>
 </div>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=purbluue&show_icons=true&theme=radical" alt="JiHyun's GitHub stats">
+  <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=purbluue&theme=buefy_icons=true)-->
+  
 </div>
-
+<img src="https://github-readme-stats.vercel.app/api?username=purbluue&show_icons=true&theme=radical" alt="JiHyun's GitHub stats">
 <br>
 <br>
 
