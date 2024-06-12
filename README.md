@@ -28,6 +28,9 @@
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://easyhomputer.tistory.com)
 </div><br>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=purbluue)](https://solved.ac/purbluue)
+
  
 <h3 align="center">🎀 Contact 🎀</h3>
 <div align="center">
