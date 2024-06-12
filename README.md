@@ -27,7 +27,8 @@
 </div><br>
 
 <div style="display:flex; flex-direction:row;">
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=purbluue)](https://solved.ac/purbluue)
+[![Solved.ac
+  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=purbluue)](https://solved.ac/purbluue)
 </div>
  
 <h3 align="center">🎀 Contact 🎀</h3>
