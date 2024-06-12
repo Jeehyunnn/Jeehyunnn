@@ -1,6 +1,6 @@
 <div align="left">
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=E6E6FA&text=Hi%20My%20GitHub%20&animation=twinkling&fontSize=40&&fontAlign=80&&fontAlignY=20&rotate=8&desc=I'm%20JiHyun%20&descSize=20&&descAlign=90&descAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=slice&color=E6E6FA&text=Hello&animation=twinkling&fontSize=40&&fontAlign=85&&fontAlignY=20&rotate=8&desc=I'm%20JiHyun%20&descSize=20&&descAlign=90&descAlignY=40)
 
 <div align="left">
   <a href="https://github.com/purbluue">
