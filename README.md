@@ -3,8 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=E6E6FA&text=Hello&animation=twinkling&fontSize=40&&fontAlign=85&&fontAlignY=20&rotate=8&desc=I'm%20JiHyun%20&descSize=20&&descAlign=90&descAlignY=40)
 
 <div align="left">
-  <a href="https://github.com/purbluue">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpurbluue&count_bg=%23F2A2F3&title_bg=%23E6E6FA&icon=github.svg&icon_color=%234B0082&title=GITHUB&edge_flat=false" alt="GitHub Hits">
+  <a href="https://github.com/Jeehyunnn">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeehyunnn&count_bg=%23F2A2F3&title_bg=%23E6E6FA&icon=github.svg&icon_color=%234B0082&title=GITHUB&edge_flat=false" alt="GitHub Hits">
   </a>
 </div>
 <div align="left">
