@@ -8,10 +8,10 @@
   </a>
 </div>
 <div align="left">
-  <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=purbluue&theme=buefy_icons=true)-->
+  <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeehyunnn&theme=buefy_icons=true)-->
   
 </div>
-<img src="https://github-readme-stats.vercel.app/api?username=purbluue&show_icons=true&theme=radical" alt="JiHyun's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Jeehyunnn&show_icons=true&theme=radical" alt="JiHyun's GitHub stats">
 <br>
 <br>
 
@@ -47,8 +47,8 @@
 </div>
 </div>
 <div align="left">
-  <a href="https://github.com/purbluue/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purbluue&layout=compact" alt="Top Langs">
+  <a href="https://github.com/Jeehyunnn/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeehyunnn&layout=compact" alt="Top Langs">
   </a>
 </div>
 </div>
