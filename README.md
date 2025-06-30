@@ -2,16 +2,16 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=E6E6FA&text=Hello&animation=twinkling&fontSize=40&&fontAlign=85&&fontAlignY=20&rotate=8&desc=I'm%20JiHyun%20&descSize=20&&descAlign=90&descAlignY=40)
 
-<div align="left">
+<!--<div align="left">
   <a href="https://github.com/Jeehyunnn">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeehyunnn&count_bg=%23F2A2F3&title_bg=%23E6E6FA&icon=github.svg&icon_color=%234B0082&title=GITHUB&edge_flat=false" alt="GitHub Hits">
-  </a>
+  </a>-->
 </div>
 <div align="left">
   <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeehyunnn&theme=buefy_icons=true)-->
   
 </div>
-<img src="https://github-readme-stats.vercel.app/api?username=Jeehyunnn&show_icons=true&theme=radical" alt="JiHyun's GitHub stats">
+<!--<img src="https://github-readme-stats.vercel.app/api?username=Jeehyunnn&show_icons=true&theme=radical" alt="JiHyun's GitHub stats">-->
 <br>
 <br>
 
@@ -77,7 +77,7 @@
 </div><br>
 
 
-[![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=purbluue)](https://solved.ac/purbluue)
+<!--[![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=purbluue)](https://solved.ac/purbluue)-->
 
 
 
